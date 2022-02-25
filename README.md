@@ -1,2 +1,1 @@
-# docs-keycloak
-Keycloak (Identity and Access Management)
+# Keycloak (Identity and Access Management)
