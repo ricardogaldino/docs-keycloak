@@ -1,0 +1,3 @@
+https://medium.com/@xavier.hahn
+https://medium.com/@xavier.hahn/adding-authorization-to-asp-net-core-app-using-keycloak-c6c96ee0e655
+https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008
